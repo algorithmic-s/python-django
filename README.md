@@ -13,7 +13,7 @@ Advantages in using Django:
 
 
         TEMPLATE folder
- - the template has the starter files that get created with each new Django project, it's usually the first step before beginning any sort of creative endeavor with the framework
+ - this project includes all the necessary starter files that get created with each new Django project, it's usually the first step before beginning any sort of creative endeavor with the framework
  - the files include:
     * manage.py - command-line program allowing the user to use Django
     * __init__.py - is an empty file that shows Python the directory is a Python package
