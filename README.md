@@ -1,3 +1,5 @@
+
+    LANGUAGES/FRAMEWORKS USED FOR THIS PROJECT
 Django is a Python web-framework that allows the development of backend web applications
 
 Advantages in using Django:
