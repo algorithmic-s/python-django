@@ -10,3 +10,14 @@ Advantages in using Django:
 - it works with several databases 
 - good amount of documentation to help developers and companies, along with forums and websites enabling you to rapidly fix any problem you encounter throughout the stages of development.
 - The software itself is consistenly updated, security issues are patched as soon as problems arrive, making Django easy, comfortable, and safe to learn to work with for any kind of project.
+
+
+        TEMPLATE folder
+ - the template has the starter files that get created with each new Django project, it's usually the first step before beginning any sort of creative endeavor with the framework
+ - the files include:
+    * manage.py - command-line program allowing the user to use Django
+    * __init__.py - is an empty file that shows Python the directory is a Python package
+    * settings.py - Settings for the project
+    * urls.py  - these are the URL configurations for this proejct
+    * asgi.py - this is an entry-point for ASGI-compatible web servers that serve the project    
+    * wsgi.py - this is an entry-point for WSGI-compatible web servers to serve the project
